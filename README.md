@@ -1,4 +1,4 @@
-# 🧠 Focus and Concentration: Galactic Journey 🌌
+# 🧠 Focus and Concentration: galaxy 🌌
 
 ![Galaxy Animation](images/galaxy-screenshot.gif)
 
@@ -9,7 +9,7 @@
 
 ## ✨ Overview
 
-Welcome to **Focus and Concentration: Galactic Journey** — a calming, immersive web app designed to sharpen your focus, enhance concentration, and create the perfect digital space for productivity. Whether you're working, studying, meditating, or just need a mental reset, this app is your peaceful galaxy away from distractions.
+Welcome to **Focus and Concentration: galaxy** — a calming, immersive web app designed to sharpen your focus, enhance concentration, and create the perfect digital space for productivity. Whether you're working, studying, meditating, or just need a mental reset, this app is your peaceful galaxy away from distractions.
 
 🪐 **Live Demo**: [focus-and-concentration.vercel.app](https://focus-and-concentration.vercel.app)  
 🌌 **Project Link**: [GitHub Repository](https://github.com/ULTRASIRI/Focus-and-Concentration)
