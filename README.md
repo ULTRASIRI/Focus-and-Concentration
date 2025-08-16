@@ -60,3 +60,46 @@ All you need is a **modern browser** (Chrome, Firefox, Edge, Safari).
 ```bash
 git clone https://github.com/ULTRASIRI/Focus-and-Concentration.git
 cd Focus-and-Concentration
+
+📁 Important: Place your galaxy.mp3 file in the main project directory, next to index.html.
+
+▶️ Run the App
+
+Open the index.html file in your browser
+
+Use the GUI panel (top-left) to customize your galaxy
+
+Use audio controls to play/pause background music
+
+Explore using your mouse:
+
+Rotate: Click + drag
+
+Pan: Right-click + drag
+
+Zoom: Scroll wheel
+```
+
+##💻 Technologies Used
+```
+| Technology                                                                    | Description                                     |
+| ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Three.js](https://threejs.org/)                                              | JavaScript library for rendering 3D graphics    |
+| [OrbitControls](https://threejs.org/docs/#examples/en/controls/OrbitControls) | 3D camera interaction module                    |
+| [lil-gui](https://lil-gui.georgealways.com/)                                  | Lightweight GUI library for live control panels |
+| HTML5, CSS3, JavaScript                                                       | Core web technologies                           |
+```
+
+##💡 SuHave a cool idea or found a bug? We’d love your input!
+
+Create a New Issue
+Tag it as enhancement or bug
+
+You can also contribute ideas through Discussions or Pull Requests.ggestions & Issues
+
+##📬 Contact
+Created by @ULTRASIRI
+Feel free to reach out with questions or suggestions.
+
+📫 [Email](ceo.shriinath@gmail.com)
+🧑🏻‍💻 [LinkedIN](www.linkedin.com/in/shrinath-hinge)
