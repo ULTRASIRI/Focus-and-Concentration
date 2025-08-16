@@ -105,7 +105,9 @@ Tag it as enhancement or bug
 
 You can also contribute ideas through Discussions or Pull Requests.ggestions & Issues
 
-##📬 Contact
+---
+
+## 📬 Contact
 Created by @ULTRASIRI
 Feel free to reach out with questions or suggestions.
 
