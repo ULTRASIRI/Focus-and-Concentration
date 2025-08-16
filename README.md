@@ -62,9 +62,12 @@ git clone https://github.com/ULTRASIRI/Focus-and-Concentration.git
 cd Focus-and-Concentration
 
 📁 Important: Place your galaxy.mp3 file in the main project directory, next to index.html.
+```
+---
 
-▶️ Run the App
 
+### ▶️ Run the App
+```
 Open the index.html file in your browser
 
 Use the GUI panel (top-left) to customize your galaxy
@@ -80,7 +83,9 @@ Pan: Right-click + drag
 Zoom: Scroll wheel
 ```
 
-##💻 Technologies Used
+---
+
+### 💻 Technologies Used
 ```
 | Technology                                                                    | Description                                     |
 | ----------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -89,8 +94,9 @@ Zoom: Scroll wheel
 | [lil-gui](https://lil-gui.georgealways.com/)                                  | Lightweight GUI library for live control panels |
 | HTML5, CSS3, JavaScript                                                       | Core web technologies                           |
 ```
+---
 
-##💡 SuHave a cool idea or found a bug? We’d love your input!
+### 💡 SuHave a cool idea or found a bug? We’d love your input!
 
 Create a New Issue
 Tag it as enhancement or bug
