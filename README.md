@@ -111,5 +111,5 @@ You can also contribute ideas through Discussions or Pull Requests.ggestions & I
 Created by @ULTRASIRI
 Feel free to reach out with questions or suggestions.
 
-📫 [Email](ceo.shriinath@gmail.com)
-🧑🏻‍💻 [LinkedIN](www.linkedin.com/in/shrinath-hinge)
+📫  Email : ceo.shriinath@gmail.com
+🧑🏻‍💻  LinkedIN : www.linkedin.com/in/shrinath-hinge
