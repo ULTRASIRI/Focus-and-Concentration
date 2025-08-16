@@ -96,7 +96,9 @@ Zoom: Scroll wheel
 ```
 ---
 
-### 💡 SuHave a cool idea or found a bug? We’d love your input!
+### 💡 Suggestions & Issues
+
+#### Have a cool idea or found a bug? We’d love your input!
 
 Create a New Issue
 Tag it as enhancement or bug
